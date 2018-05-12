@@ -1,4 +1,5 @@
 _repo: The-Angevins-and-the-Charter-1154-1216_50791
+_version: 0.1.0
 contributor:
   creator:
     editors:
@@ -8,12 +9,17 @@ contributor:
     - agent_name: Bell, Kenneth
       gutenberg_agent_id: '45568'
       url: http://www.gutenberg.org/2009/agents/45568
+covers:
+- cover_type: archival
+  image_path: 50791-h/images/cover.jpg
 creator:
   author:
     agent_name: Toyne, S. M.
     gutenberg_agent_id: '46085'
     url: http://www.gutenberg.org/2009/agents/46085
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50791#The-Angevins-and-the-Charter-1154-1216
 gutenberg_issued: '2015-12-30'
 gutenberg_type: Text
 identifiers:
